@@ -12,6 +12,7 @@ Get a quick glance at my coding activity and favorite languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VonFlair&layout=compact)](https://github.com/VonFlair)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
 ## 👨‍💻 About Me
 
 - **Current Focus:** Working on diverse projects ranging from personal websites to advanced data analysis tools.
