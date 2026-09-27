@@ -1,6 +1,6 @@
 # Hi, I'm VonFlair 👋
 
-Welcome to my GitHub profile! I'm **Jiayu Feng**, a passionate developer and data enthusiast who loves creating innovative projects and sharing knowledge. Alongside software and data projects, I'm interested in **health policy, administrative data, applied statistics, and computational research methods**. Check out my portfolio at [My Personal Website](https://storage.googleapis.com/jiayufeng_personalwebsite/Jiayu_personal_portfolio/index.html).
+Welcome to my GitHub profile! I'm **Jiayu Feng**, a passionate developer and data enthusiast who loves creating innovative projects and sharing knowledge. Alongside software and data projects, I'm interested in **health policy, administrative data, applied statistics, and computational research methods**.
 
 ---
 
@@ -36,7 +36,6 @@ Get a quick glance at my coding activity and favorite languages:
 
 ## 🤝 Let's Connect
 
-[![Personal Website](https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=GoogleChrome)](https://storage.googleapis.com/jiayufeng_personalwebsite/Jiayu_personal_portfolio/index.html)
 [![GitHub](https://img.shields.io/badge/GitHub-VonFlair-181717?style=flat-square&logo=github)](https://github.com/VonFlair)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiayufen/)
 
